@@ -1,3 +1,8 @@
+# Stacks:
+- Spring Boot
+- Spring Data JPA
+- Mysql
+
 # 게시판 주요기능
 1. 글쓰기(/board/save)
 2. 글목록(/board/)
